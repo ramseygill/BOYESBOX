@@ -1,6 +1,6 @@
 /***************************************************
-  DFPlayer - A Mini MP3 Player For Arduino
-  <https://www.dfrobot.com/index.php?route=product/product&product_id=1121>
+  BOYESBOX Customizable MP3 music box similar to the "Easy" button with 100% more Deniece Williams and extremely specific to my coworker.
+  https://github.com/ramseygill/BOYESBOX
 
  ***************************************************
   This example shows the basic function of library for DFPlayer.
