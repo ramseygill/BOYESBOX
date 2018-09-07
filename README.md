@@ -10,6 +10,4 @@ https://hackaday.io/project/160786-boyes-box
 * .STEP files if you don't use/like Fusion 360.
 * .STL incase you just want to 3D print as is. 
 
-=======
-https://hackaday.io/project/160786-lets-hear-it-for-the-boyes
->>>>>>> 12659e24a8feb30f89d4e891807be8272524b0e5
+
